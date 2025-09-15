@@ -22,15 +22,15 @@ class Solution {
         if (node == null) return 0;
         
         int leftHeight = checkHeight(node.left);
-        if (leftHeight == -1) return -1;  // left subtree unbalanced
+        if (leftHeight == -1) return -1;
         
         int rightHeight = checkHeight(node.right);
-        if (rightHeight == -1) return -1; // right subtree unbalanced
+        if (rightHeight == -1) return -1;
         
         if (Math.abs(leftHeight - rightHeight) > 1) {
-            return -1; // not balanced
+            return -1;
         }
         
-        return Math.max(leftHeight, rightHeight) + 1; // return height
+        return Math.max(leftHeight, rightHeight) + 1;
     }
 }
