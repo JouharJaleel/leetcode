@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/JouharJaleel/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JouharJaleel/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/JouharJaleel/leetcode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/JouharJaleel/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JouharJaleel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/JouharJaleel/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/JouharJaleel/leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/JouharJaleel/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JouharJaleel/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
